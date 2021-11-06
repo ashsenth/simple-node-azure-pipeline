@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kristenkinnearohlmann/simple-node-azure-pipeline/issues"
   },
-  "homepage": "https://github.com/kristenkinnearohlmann/simple-node-azure-pipeline#readme"
+  "homepage": "https://github.com/kristenkinnearohlmann/simple-node-azure-pipeline#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
